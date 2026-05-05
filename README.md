@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Rabia%20Ceyda%20Eken&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20Data%20Engineer&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=850&height=35&lines=B.Sc.+Computer+Engineering+@+Bilgi+University;Architecting+Cloud+%26+Serverless+Solutions+(AWS);Developing+Machine+Learning+%26+Data+Pipelines;Active+Security+Researcher+%26+CTF+Player" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=850&height=35&lines=B.Sc.+Computer+Engineering+@+Bilgi+University;Architecting+Cloud+%26+Serverless+Solutions+(AWS);Developing+Machine+Learning+%26+Data+Pipelines;Applied+Cybersecurity+%26+Digital+Forensics" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -18,10 +18,10 @@
 
 ## ⚙️ Engineering Profile
 
-I am a Computer Engineering student at Istanbul Bilgi University[cite: 1], specializing in **Artificial Intelligence, Data Engineering, and Cloud Architecture**. My engineering philosophy centers on building scalable, efficient, and secure systems. Whether I am architecting event-driven serverless pipelines on AWS, developing robust predictive models, or reverse-engineering systems in CTF challenges, I focus on algorithmic efficiency and clean system design.
+I am a Computer Engineering student at Istanbul Bilgi University, specializing in **Artificial Intelligence, Data Engineering, and Cloud Architecture**. My engineering philosophy centers on building scalable, efficient, and secure systems. Whether I am architecting event-driven serverless pipelines on AWS, developing robust predictive models, or conducting vulnerability assessments in simulated security environments, I focus on algorithmic efficiency and clean system design.
 
-*   🎓 **Education:** B.Sc. Computer Engineering, Istanbul Bilgi University (2023 - Present)[cite: 1]
-*   🎯 **Core Competencies:** Machine Learning Pipelines, Serverless Infrastructure, Data Analytics, Cybersecurity
+*   🎓 **Education:** B.Sc. Computer Engineering, Istanbul Bilgi University (2023 - Present)
+*   🎯 **Core Competencies:** Machine Learning Pipelines, Serverless Infrastructure, Data Analytics, Applied Security Research
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
@@ -32,20 +32,20 @@ I am a Computer Engineering student at Istanbul Bilgi University[cite: 1], speci
     <td width="50%" valign="top">
       <h4>💼 Professional Experience</h4>
       <ul>
-        <li><strong>Software Persona (TNC Group)</strong><br>Incoming Software Engineering Intern <i>(May 2026 - Jun 2026)</i>[cite: 1]<br><i>Focus: Real-world software development and system design.</i>[cite: 1]</li>
+        <li><strong>Software Persona (TNC Group)</strong><br>Incoming Software Engineering Intern <i>(May 2026 - Jun 2026)</i><br><i>Focus: Real-world software development and system design.</i></li>
       </ul>
       <h4>🤝 Leadership & Community</h4>
       <ul>
-        <li><strong>Bilgi AI Club</strong> — Sponsorship & Partnerships Team[cite: 1]</li>
-        <li><strong>Beyoğlu Gençlik Merkezi</strong> — Volunteer Youth Leader[cite: 1]</li>
+        <li><strong>Bilgi AI Club</strong> — Sponsorship & Partnerships Team</li>
+        <li><strong>Beyoğlu Gençlik Merkezi</strong> — Volunteer Youth Leader</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🏗️ Featured Projects</h4>
       <ul>
         <li><strong>AWS Serverless Data Pipeline:</strong> Engineered an automated workflow using S3 triggers, Lambda functions, and DynamoDB for event-driven processing.</li>
-        <li><strong>Medical Insurance Predictive Modeling:</strong> Developed an end-to-end regression pipeline (EDA, feature engineering, model training) using Python.[cite: 1]</li>
-        <li><strong>Immuno-Oncology 3T (Teknofest):</strong> Contributed to an AI-driven medical analysis workflow (Semi-Finalist).[cite: 1]</li>
+        <li><strong>Medical Insurance Predictive Modeling:</strong> Developed an end-to-end regression pipeline (EDA, feature engineering, model training) using Python.</li>
+        <li><strong>Immuno-Oncology 3T (Teknofest):</strong> Contributed to an AI-driven medical analysis workflow (Semi-Finalist).</li>
         <li><strong>Algorithmic Chess Engine:</strong> Programmed a Python-based chess engine integrating the Stockfish analyzer with tiered difficulty bots.</li>
       </ul>
     </td>
@@ -79,9 +79,9 @@ I am a Computer Engineering student at Istanbul Bilgi University[cite: 1], speci
 
 ## 🧠 Analytical Pursuits (Beyond the IDE)
 
-- 🔐 **Security Research:** Regularly engage in CTF platforms, utilizing tools like `zsteg` and Wayback Machine for data extraction and vulnerability analysis.
-- ♟️ **Strategic Thinking:** I apply tactical positioning and micro-management skills as a competitive MOBA player (Honor of Kings, MLBB). 
-- 🔎 **Logical Deduction:** Passionate about intricate narratives and deductive reasoning, drawing inspiration from works like *Moriarty the Patriot* and complex historical mysteries.
+- 🔐 **Applied Security Research:** Conducting practical vulnerability analysis and data extraction in simulated environments, utilizing digital forensics methodologies and OSINT techniques.
+- ♟️ **Strategic Operations:** Applying tactical positioning and real-time resource management skills in competitive environments.
+- 🔎 **Deductive Reasoning:** Passionate about intricate narratives and complex historical mysteries that require logical deduction and pattern recognition.
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
